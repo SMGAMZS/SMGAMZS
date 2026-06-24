@@ -28,3 +28,11 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xxt0m9jfbwh9zj3d1w4xbe8vs&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Now Playing" />
   </a>
 </div>
+
+
+### 📬 Let's Connect
+<div align="left">
+  <a href="mailto:aaravsinha4550@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: aaravsinha4550@gmail.com" />
+  </a>
+</div>
