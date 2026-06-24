@@ -20,3 +20,11 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SMGAMZS&show_icons=true&theme=radical" alt="Aarav's GitHub Stats" />
 </div>
+
+
+### 🎧 Currently Listening To
+<div align="left">
+  <a href="https://open.spotify.com/user/xxt0m9jfbwh9zj3d1w4xbe8vs">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=xxt0m9jfbwh9zj3d1w4xbe8vs&cover_image=true&theme=dark" alt="Spotify Now Playing" />
+  </a>
+</div>
