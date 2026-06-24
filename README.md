@@ -18,5 +18,5 @@
 
 ### 📊 GitHub Activity
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Aarav's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SMGAMZS&show_icons=true&theme=radical" alt="Aarav's GitHub Stats" />
 </div>
