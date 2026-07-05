@@ -15,10 +15,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
 </div>
-### 📊 GitHub Activity
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SMGAMZS&show_icons=true&theme=radical" alt="Aarav's GitHub Stats" />
-</div>
+
 
 ### 🎧 Currently Listening To
 <div align="left">
